@@ -36,11 +36,12 @@
       "last 1 safari version"
     ]
   }
-}
-{
+  {
   "homepage": "https://FunkyPurpleApplePaste.github.io/pizzaapp",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   }
 }
+}
+
